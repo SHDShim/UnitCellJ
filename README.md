@@ -2,9 +2,6 @@
 
 A Jupyter notebook for unit cell fitting
 
-<!---
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.810401.svg)](https://doi.org/10.5281/zenodo.810401)
----!>
 
 Unit-cell parameter fitting with statistical indices for outlier points.
 
@@ -30,7 +27,3 @@ Major functions include:
 ## How to cite
 
 S.-H. Shim (2022) Unit cell fitting in Jupyter. 
-
-<!---
-Zenodo. http://doi.org/10.5281/zenodo.810199
----!>
