@@ -4,6 +4,12 @@
 # # Unit cell fitting
 
 # created by S.-H. Shim, 2022/03/05
+# 
+# [![DOI](https://zenodo.org/badge/468448131.svg)](https://zenodo.org/badge/latestdoi/468448131)
+# 
+# ### How to cite
+# 
+# S.-H. Shim (2022) Unit cell fitting in Jupyter. Zenodo. http://doi.org/10.5281/zenodo.6344949
 
 # This notebook shows how to conduct unit-cell fitting using the strategy presented in Holland and Redfurn (1997) using the `statsmodels` and `lmfit` packages.  
 # 
